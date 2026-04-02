@@ -21,6 +21,7 @@ and statistical concepts used in data science and machine learning.
 - NumPy
 - Matplotlib
 - SciPy
+- Seaborn
 
 ## Structure
 - notebooks/ → all implementations
